@@ -7,4 +7,4 @@ MarkupSafe
 PyYAML
 Werkzeug
 pillow
-git+https://github.com/Kronuz/pyScss.git
+libsass
